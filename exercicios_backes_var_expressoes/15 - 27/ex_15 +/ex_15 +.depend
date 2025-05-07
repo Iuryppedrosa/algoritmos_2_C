@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1736711385 source:c:\users\iuryp\onedrive\desktop\pessoal\ufu\estudos\semestre_1\algoritmos_e_programacao_ii\exercicios_backes_var_expressoes\15\ex_15 +\main.c
+	<stdio.h>
+	<stdlib.h>
+

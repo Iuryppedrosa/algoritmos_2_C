@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1744324078 source:c:\users\iuryp\onedrive\desktop\pessoal\ufu\estudos\semestre_1\algoritmos_e_programacao_ii\exercicios_thiago_func\exercicios_func\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<limits.h>
+
